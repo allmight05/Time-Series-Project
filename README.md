@@ -1,12 +1,10 @@
 ```
-Time Series Project
-
-This repository contains my time series analysis project. In the main notebook, I explore and analyze time series data by performing data cleaning, exploratory analysis, visualization, and forecasting. The goal is to understand patterns in the data and build a forecasting model that can predict future trends.
+This repository contains my time series analysis project. In the main notebook, I explore and analyze time series data by performing data cleaning, exploratory analysis, visualization, and forecasting. The goal is to understand patterns in the data and build forecasting models that can predict future trends.
 Project Overview
 
     Data Preparation: Cleaning and preprocessing the dataset.
     Exploratory Data Analysis: Visualizing trends, seasonality, and anomalies in the data.
-    Forecasting: Applying time series forecasting methods to predict future values.
+    Forecasting: Applying time series forecasting methods—using ARIMA, SARIMA, Vector Auto Regression, and LSTM—to predict future values.
     Evaluation: Assessing model performance through various metrics.
 
 Getting Started
@@ -46,11 +44,12 @@ Running the Project
 
     jupyter notebook "Time series Project.ipynb"
 
-    Run the notebook cells sequentially to see the full analysis and modeling process.
+    Run the Notebook Cells:
+    Execute the cells sequentially to see the full analysis, modeling, and forecasting process.
 
 Project Structure
 
-    Time series Project.ipynb: Main notebook that documents the entire process from data preprocessing to model evaluation.
+    Time series Project.ipynb: Main notebook that documents the entire process from data preprocessing to model evaluation and forecasting.
 
 Contributing
 
@@ -58,6 +57,3 @@ If you have suggestions or improvements, feel free to fork the repository and su
 License
 
 This project is licensed under the MIT License.
-Contact
-
-If you have any questions or feedback, please open an issue in the repository or contact me via GitHub.
