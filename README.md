@@ -1,3 +1,4 @@
+```
 Time Series Project
 
 This repository contains my time series analysis project. In the main notebook, I explore and analyze time series data by performing data cleaning, exploratory analysis, visualization, and forecasting. The goal is to understand patterns in the data and build a forecasting model that can predict future trends.
